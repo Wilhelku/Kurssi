@@ -1,0 +1,6 @@
+luku1 = int(input("syötä kokonaisluku: "))
+luku2 = int(input("syötä kokonaisluku: "))
+luku3 = int(input("syötä kokonaisluku: "))
+print("summa:",luku1+luku2+luku3)
+print("tulo:",luku1*luku2+luku3*luku1)
+print("keskiarvo:",(luku1+luku2+luku3)/3)
